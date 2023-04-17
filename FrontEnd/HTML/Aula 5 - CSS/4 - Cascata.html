@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>4- Cascata/Esp</title>
+    <h1 style="color: blue;">Cascata no HTML</h1>
+    
+    <style>
+        h1
+        {
+            color: yellow;
+            background-color: black;
+            text-align: center
+        }
+    </style>
+    <link rel="stylesheet" href="./style2.css">
+   
+</head>
+<body>
+    
+<div class="Cascata"><h2 class="Cascata">A Cascata (cascading)</h2>
+        A escolha do browser de qual regra aplicar, caso haja muitas regras para o mesmo elemento.
+
+    <ul class="Cascata"> Seu estilo é lido de cima para baixo, e é levado em consideração 3 fatores:
+        <li id="Lista1">1. Origem do estilo</li>
+        <li class="Cascata" style="color: orangered; background-color: black;">2. Especificidade</li>
+        <li class="Cascata">3. Importância</li>
+    </ul>
+    <br>
+    ### Origem do estilo css importa muito, ordem de "FORÇA"
+    <br>
+    inline > tag style > tag link <br>
+    FORTE--MEDIO---FRACO
+</div>
+<br><br>
+
+<div class="especificidade" style="color: black;"> <h3 style="color: red;"> Especificidade</h3>
+    <br>
+    É um cálculo matemático, onde, cada tipo de seletor e origem do estilo, possuem valores a serem considerados.
+        <ul>
+            <li style="color: green;">0. Universal selector (*), combinators e negation pseudo-class (:not ())</li>
+            <li style="color: green;">1. Element type selector e pseudo-elements (::before, ::after)</li>
+            <li style="color: green;">10. Classes e attribute selectors ( [type="radio"])</li> <!-- Seletor de Classe de cada TAG -->
+            <li style="color: green;">100. ID selector</li> <!-- ID da TAG-->
+            <li style="color: green;">1000. Inline</li><!-- <h1 style="color: blue;"> </h1> MAIS FORTE -->
+        </ul>
+</div>
+TESTE MARROM <br>
+TESTE MARROM <br>
+TESTE MARROM <br>
+
+<!-- !important SOBRESAI
+GANHA DE TODOS
+-->
+</body>
+</html>

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TAG ANCORA/URL/PATH</title>
+    <div style="color: blue;" tabindex="1" class="inicio" id="1"><h1>Como usuar a TAG ANCORA/URL/PATH</h1></div>
+</head>
+
+<body>
+    <!-- <a href="https://google.com" download="" title="google.com" target="_blank">Conteúdo</a> tbm pode ser um fragmento(pedaço do seu site), email, telefone, e outros
+    
+        -- URL Uniform Resource Locator
+        No caso dos links são as URLs, que são sequencia de texto que define onde algo está localizado na web , 
+        por exemplo https://rocketseat.com.br, ela mostrando que esse endereço levará para algum lugar da web.
+
+        -- Caminho dos Arquivos
+        No caso dos arquivos, são os seus caminhos, onde, no explorador de arquivos, um recurso está localizado, 
+        podendo ser imagem, pdf, qualquer arquivo basicamente, abrindo alguns arquivos do nosso projeto no VSCode, 
+        usando o elemento a, iremos escrever ao invés de https://..., apenas o nome do arquivo, o próprio VSCode 
+        possui a inteligência de saber que o arquivo está lá, lembrando que também podemos usar os atributos que 
+        usamos nas URLs
+    
+    
+    -->
+    
+
+    <p>Find-me</p>
+    <ul>
+        <li><a href="https://www.linkedin.com/in/diego-f-bortholace-lima-a63553220/" target="_blank" title="google.com">WebSite</a> </li>        
+        <li><a href="mailto:diegofernandoslima@gmail.com">Email</a></li>
+        <li><a href="tel:+5512997681510"> Telefone</a></li>
+    </ul>    
+    <p>Saiba mais...</p>
+
+    <ul>
+        <li><a href="#about"> Sobre mim</a> </li> <!-- link para fragmento bata colocar o # na frente -->
+        <li><a href="#history"> Historia</a></li>
+        <li><a href="#works"> Trabalho</a></li>
+    </ul>
+
+    <h1 id="about">Sobre mim</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur, harum totam iure, consectetur quibusdam pariatur delectus eos asperiores vero repellendus qui vel. Eos suscipit doloribus ipsum ut magnam? Facere, ab!
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore molestias fugit dolorum maiores error corporis. Facilis placeat soluta magni hic eveniet iure quia pariatur. Libero iure distinctio doloribus eveniet adipisci!
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae odio esse repudiandae iusto molestias labore blanditiis voluptate quidem quisquam reprehenderit repellendus officia natus dolor eius, quo, beatae at soluta omnis.</p>
+    
+    <h2 id="history">História</h2>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae exercitationem nulla fugit aliquid consequatur nihil odio maxime quos culpa sint quod, maiores delectus? Itaque, ratione? Itaque aut vel corporis consequatur!
+    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque facilis, nemo placeat, soluta ad quaerat veniam, alias inventore voluptatem dignissimos facere optio cumque omnis quibusdam cupiditate debitis tenetur! Debitis, dolores!
+    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est incidunt eos iste labore, reiciendis optio voluptate quod id, porro, amet laudantium. Cum sunt, quisquam alias et dolor ad quae deleniti?</p>
+
+    <h2 id="works">Trabalhos</h2>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quasi deserunt laboriosam minus nihil, perspiciatis sunt eaque voluptates fugiat iste impedit voluptatum ipsa in corrupti quibusdam corporis! Nobis omnis natus tenetur?
+    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cum eaque, ad, eveniet delectus esse deserunt repudiandae placeat accusamus quaerat maiores reprehenderit dolor suscipit, odio reiciendis impedit ratione dolorem ipsa qui.
+    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eligendi veritatis at inventore harum ipsum itaque voluptas pariatur cupiditate autem id, explicabo nobis et optio ut distinctio ab quas possimus voluptates!</p>
+<br>
+<br>
+    <a href="../Aula 2 - Elementos/5 - elementos-genericos.html" title="elementos-genericos(DOC personalizado)" target="_blank">Abrir DOC elementos-genericos</a>
+    <a href=""></a><br>
+    <!--
+        ./ pasta raiz(atual)   
+        ../ duas pastas acima
+        outros/ outras pastas onde está o conteúdo
+
+        URL ABSOLUTA vS RELATIVA
+            URL Absoluto
+                http://www.rockeseat.com.br/projetos/index.html
+                sempre apontará para o mesmo local, pois é absoluto.
+
+            URL Relativa
+                - relativo a pasta aberta no momento
+                - apontará para lugares diferentes
+    -->
+<br>
+    <a href="google.com"> Relativo: ir para o google</a><br> <!-- na pasta atual nao tem google.com-->
+    <a href="https://google.com" target="_blank">Absoluto: ir para o google</a>
+
+
+</body>
+</html>

@@ -1,0 +1,21 @@
+h1 {
+
+    color: #97c934;
+    background-color: #e96060;
+    text-align: center;
+    background-image: url(../ProjetosHTML/hero.jpg);
+    background-repeat: no-repeat;
+    background-position: left top;
+
+    background: #97c934 #ffffff center url(../ProjetosHTML/hero.jpg) no-repeat left top;
+
+    /* font properties */
+    font-style: italic;
+    font-weight: bold;
+    font-size: 100px;
+    line-height: 4;
+    font-family: Arial, sans-serif;
+
+    /* font shorthand 
+    font: bold italic .8em/1.2 Arial, sans-serif;  */
+}

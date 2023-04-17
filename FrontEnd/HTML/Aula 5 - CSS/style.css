@@ -1,0 +1,61 @@
+strong
+{
+    color: blue;
+}
+
+h1
+{
+        font-size: 60px;
+        font-family: Arial;
+        border: 1px;/* bordas da caixa */
+        padding: 30px; /* preencimento da caixa */
+        margin: 150x; /* margem da caixa para as bordas */
+}
+
+h3 
+{
+        font-size: 18px;
+        font-family: Arial;
+        border: 1px;/* bordas da caixa */
+        padding: 1; /* preencimento da caixa */
+        margin: 15px; /* margem da caixa para as bordas */
+}
+
+.container
+{
+    text-align: center;
+}
+
+button
+{
+  width:250px;
+  height:30px;
+  font-size:15px;
+  color:white;
+  background-color:#8257e5;
+  border-style: solid;
+  border-color: #8257e5;
+}
+div.geral
+
+{
+background-image: url('./hero-background.jpg');
+color:white;
+background-color: black;
+
+}
+
+div#testefont
+{
+    font-family: 'Mynerve', cursive;
+}
+
+div#testefont2
+{
+    font-family: 'Tilt Prism', cursive;
+}
+
+div#testefont3
+{
+    font-family: 'Smokum', cursive;
+}

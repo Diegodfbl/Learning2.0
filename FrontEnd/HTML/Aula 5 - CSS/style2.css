@@ -1,0 +1,34 @@
+#Lista1
+{ /*ID SELECTOR*/
+    color: greenyellow;
+    background-color: black;
+}
+/* 1º MAIS FORTE depois do inline - Seletor de ID */
+
+.Cascata
+{ /*CLASS SELECTOR*/
+    color: blue;
+}
+/* 2º MAIS FORTE depois do inline - Seletor de Class */
+h1
+{
+  
+    color: red;
+    text-align: center /*redundante afins de teste*/
+}
+/* 3º MAIS FORTE depois do inline - Seletor de Element Type */
+
+h2
+{
+    text-align: center;
+    color: chartreuse !important;
+}
+
+h3
+{
+    text-align: center;
+}
+
+* {
+    color: brown;
+}
