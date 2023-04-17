@@ -1,0 +1,8 @@
+C:\Users\diieg\Documents\GitHub\Learning\Backend\C#\01 - ExercicioPratico-IMC\ExercicioPratico-IMC\ExercicioPratico-IMC\bin\Debug\ExercicioPratico-IMC.exe.config
+C:\Users\diieg\Documents\GitHub\Learning\Backend\C#\01 - ExercicioPratico-IMC\ExercicioPratico-IMC\ExercicioPratico-IMC\bin\Debug\ExercicioPratico-IMC.exe
+C:\Users\diieg\Documents\GitHub\Learning\Backend\C#\01 - ExercicioPratico-IMC\ExercicioPratico-IMC\ExercicioPratico-IMC\bin\Debug\ExercicioPratico-IMC.pdb
+C:\Users\diieg\Documents\GitHub\Learning\Backend\C#\01 - ExercicioPratico-IMC\ExercicioPratico-IMC\ExercicioPratico-IMC\obj\Debug\ExercicioPratico-IMC.csproj.AssemblyReference.cache
+C:\Users\diieg\Documents\GitHub\Learning\Backend\C#\01 - ExercicioPratico-IMC\ExercicioPratico-IMC\ExercicioPratico-IMC\obj\Debug\ExercicioPratico-IMC.csproj.SuggestedBindingRedirects.cache
+C:\Users\diieg\Documents\GitHub\Learning\Backend\C#\01 - ExercicioPratico-IMC\ExercicioPratico-IMC\ExercicioPratico-IMC\obj\Debug\ExercicioPratico-IMC.csproj.CoreCompileInputs.cache
+C:\Users\diieg\Documents\GitHub\Learning\Backend\C#\01 - ExercicioPratico-IMC\ExercicioPratico-IMC\ExercicioPratico-IMC\obj\Debug\ExercicioPratico-IMC.exe
+C:\Users\diieg\Documents\GitHub\Learning\Backend\C#\01 - ExercicioPratico-IMC\ExercicioPratico-IMC\ExercicioPratico-IMC\obj\Debug\ExercicioPratico-IMC.pdb

@@ -1,0 +1,8 @@
+C:\Users\diieg\Documents\GitHub\Learning\Backend\C#\02 - ExercicioPratico-Calc\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\diieg\Documents\GitHub\Learning\Backend\C#\02 - ExercicioPratico-Calc\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\diieg\Documents\GitHub\Learning\Backend\C#\02 - ExercicioPratico-Calc\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\diieg\Documents\GitHub\Learning\Backend\C#\02 - ExercicioPratico-Calc\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\diieg\Documents\GitHub\Learning\Backend\C#\02 - ExercicioPratico-Calc\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\diieg\Documents\GitHub\Learning\Backend\C#\02 - ExercicioPratico-Calc\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\diieg\Documents\GitHub\Learning\Backend\C#\02 - ExercicioPratico-Calc\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\diieg\Documents\GitHub\Learning\Backend\C#\02 - ExercicioPratico-Calc\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
