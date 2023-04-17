@@ -1,0 +1,3 @@
+C:\Users\diieg\Documents\GitHub\Learning\Backend\C#\Mod 2\DiagramadeClasse\DiagramadeClasse\obj\Debug\DiagramadeClasse.csproj.AssemblyReference.cache
+C:\Users\diieg\Documents\GitHub\Learning\Backend\C#\Mod 2\DiagramadeClasse\DiagramadeClasse\obj\Debug\DiagramadeClasse.csproj.SuggestedBindingRedirects.cache
+C:\Users\diieg\Documents\GitHub\Learning\Backend\C#\Mod 2\DiagramadeClasse\DiagramadeClasse\obj\Debug\DiagramadeClasse.csproj.CoreCompileInputs.cache

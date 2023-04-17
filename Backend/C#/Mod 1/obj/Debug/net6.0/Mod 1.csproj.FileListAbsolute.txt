@@ -1,0 +1,17 @@
+C:\Users\diieg\Documents\GitHub\aprendizado\Backend\Mod 1\bin\Debug\net6.0\Mod 1.exe
+C:\Users\diieg\Documents\GitHub\aprendizado\Backend\Mod 1\bin\Debug\net6.0\Mod 1.deps.json
+C:\Users\diieg\Documents\GitHub\aprendizado\Backend\Mod 1\bin\Debug\net6.0\Mod 1.runtimeconfig.json
+C:\Users\diieg\Documents\GitHub\aprendizado\Backend\Mod 1\bin\Debug\net6.0\Mod 1.dll
+C:\Users\diieg\Documents\GitHub\aprendizado\Backend\Mod 1\bin\Debug\net6.0\Mod 1.pdb
+C:\Users\diieg\Documents\GitHub\aprendizado\Backend\Mod 1\obj\Debug\net6.0\Mod 1.csproj.AssemblyReference.cache
+C:\Users\diieg\Documents\GitHub\aprendizado\Backend\Mod 1\obj\Debug\net6.0\Mod 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diieg\Documents\GitHub\aprendizado\Backend\Mod 1\obj\Debug\net6.0\Mod 1.AssemblyInfoInputs.cache
+C:\Users\diieg\Documents\GitHub\aprendizado\Backend\Mod 1\obj\Debug\net6.0\Mod 1.AssemblyInfo.cs
+C:\Users\diieg\Documents\GitHub\aprendizado\Backend\Mod 1\obj\Debug\net6.0\Mod 1.csproj.CoreCompileInputs.cache
+C:\Users\diieg\Documents\GitHub\aprendizado\Backend\Mod 1\obj\Debug\net6.0\Mod 1.dll
+C:\Users\diieg\Documents\GitHub\aprendizado\Backend\Mod 1\obj\Debug\net6.0\refint\Mod 1.dll
+C:\Users\diieg\Documents\GitHub\aprendizado\Backend\Mod 1\obj\Debug\net6.0\Mod 1.pdb
+C:\Users\diieg\Documents\GitHub\aprendizado\Backend\Mod 1\obj\Debug\net6.0\Mod 1.genruntimeconfig.cache
+C:\Users\diieg\Documents\GitHub\aprendizado\Backend\Mod 1\obj\Debug\net6.0\ref\Mod 1.dll
+C:\Users\diieg\Documents\GitHub\aprendizado\Backend\Mod 1\bin\Debug\net6.0\FluentColorConsole.dll
+C:\Users\diieg\Documents\GitHub\aprendizado\Backend\Mod 1\obj\Debug\net6.0\Mod 1.csproj.CopyComplete
