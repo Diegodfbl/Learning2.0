@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zeuXMZEg/6nCzcfWjcL1G4PRE53w15E42mUaNWachFZ8y4vz/OW5gX35A1JkWm3mPoACMJMitsONZucF3jYDqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\diieg\\Documents\\GitHub\\Learning\\Backend\\.Net\\.Net.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diieg\\.nuget\\packages\\fluentcolorconsole\\2.0.1\\fluentcolorconsole.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
