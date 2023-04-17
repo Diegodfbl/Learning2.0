@@ -1,0 +1,8 @@
+C:\Users\diieg\Documents\GitHub\Learning\Backend\C#\Mod 4 - Estrutura de Repetição\Estrutura-Repeticao\Estrutura-Repeticao\bin\Debug\Estrutura-Repeticao.exe.config
+C:\Users\diieg\Documents\GitHub\Learning\Backend\C#\Mod 4 - Estrutura de Repetição\Estrutura-Repeticao\Estrutura-Repeticao\bin\Debug\Estrutura-Repeticao.exe
+C:\Users\diieg\Documents\GitHub\Learning\Backend\C#\Mod 4 - Estrutura de Repetição\Estrutura-Repeticao\Estrutura-Repeticao\bin\Debug\Estrutura-Repeticao.pdb
+C:\Users\diieg\Documents\GitHub\Learning\Backend\C#\Mod 4 - Estrutura de Repetição\Estrutura-Repeticao\Estrutura-Repeticao\obj\Debug\Estrutura-Repeticao.csproj.AssemblyReference.cache
+C:\Users\diieg\Documents\GitHub\Learning\Backend\C#\Mod 4 - Estrutura de Repetição\Estrutura-Repeticao\Estrutura-Repeticao\obj\Debug\Estrutura-Repeticao.csproj.SuggestedBindingRedirects.cache
+C:\Users\diieg\Documents\GitHub\Learning\Backend\C#\Mod 4 - Estrutura de Repetição\Estrutura-Repeticao\Estrutura-Repeticao\obj\Debug\Estrutura-Repeticao.csproj.CoreCompileInputs.cache
+C:\Users\diieg\Documents\GitHub\Learning\Backend\C#\Mod 4 - Estrutura de Repetição\Estrutura-Repeticao\Estrutura-Repeticao\obj\Debug\Estrutura-Repeticao.exe
+C:\Users\diieg\Documents\GitHub\Learning\Backend\C#\Mod 4 - Estrutura de Repetição\Estrutura-Repeticao\Estrutura-Repeticao\obj\Debug\Estrutura-Repeticao.pdb

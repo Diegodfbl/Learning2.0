@@ -1,0 +1,8 @@
+C:\Users\diieg\Documents\GitHub\Learning\Backend\C#\Mod 3 - Estrutura de controle\Switch-case_GoTo\Switch-case_GoTo\bin\Debug\Switch-case_GoTo.exe.config
+C:\Users\diieg\Documents\GitHub\Learning\Backend\C#\Mod 3 - Estrutura de controle\Switch-case_GoTo\Switch-case_GoTo\bin\Debug\Switch-case_GoTo.exe
+C:\Users\diieg\Documents\GitHub\Learning\Backend\C#\Mod 3 - Estrutura de controle\Switch-case_GoTo\Switch-case_GoTo\bin\Debug\Switch-case_GoTo.pdb
+C:\Users\diieg\Documents\GitHub\Learning\Backend\C#\Mod 3 - Estrutura de controle\Switch-case_GoTo\Switch-case_GoTo\obj\Debug\Switch-case_GoTo.csproj.AssemblyReference.cache
+C:\Users\diieg\Documents\GitHub\Learning\Backend\C#\Mod 3 - Estrutura de controle\Switch-case_GoTo\Switch-case_GoTo\obj\Debug\Switch-case_GoTo.csproj.SuggestedBindingRedirects.cache
+C:\Users\diieg\Documents\GitHub\Learning\Backend\C#\Mod 3 - Estrutura de controle\Switch-case_GoTo\Switch-case_GoTo\obj\Debug\Switch-case_GoTo.csproj.CoreCompileInputs.cache
+C:\Users\diieg\Documents\GitHub\Learning\Backend\C#\Mod 3 - Estrutura de controle\Switch-case_GoTo\Switch-case_GoTo\obj\Debug\Switch-case_GoTo.exe
+C:\Users\diieg\Documents\GitHub\Learning\Backend\C#\Mod 3 - Estrutura de controle\Switch-case_GoTo\Switch-case_GoTo\obj\Debug\Switch-case_GoTo.pdb
