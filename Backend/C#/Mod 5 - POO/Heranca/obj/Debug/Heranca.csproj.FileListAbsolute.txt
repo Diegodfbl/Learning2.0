@@ -1,0 +1,8 @@
+C:\Users\diieg\Documents\GitHub\Learning2.0\Backend\C#\Mod 5 - POO\POO - Teoria\Heranca\bin\Debug\Heranca.exe.config
+C:\Users\diieg\Documents\GitHub\Learning2.0\Backend\C#\Mod 5 - POO\POO - Teoria\Heranca\bin\Debug\Heranca.exe
+C:\Users\diieg\Documents\GitHub\Learning2.0\Backend\C#\Mod 5 - POO\POO - Teoria\Heranca\bin\Debug\Heranca.pdb
+C:\Users\diieg\Documents\GitHub\Learning2.0\Backend\C#\Mod 5 - POO\POO - Teoria\Heranca\obj\Debug\Heranca.csproj.AssemblyReference.cache
+C:\Users\diieg\Documents\GitHub\Learning2.0\Backend\C#\Mod 5 - POO\POO - Teoria\Heranca\obj\Debug\Heranca.csproj.SuggestedBindingRedirects.cache
+C:\Users\diieg\Documents\GitHub\Learning2.0\Backend\C#\Mod 5 - POO\POO - Teoria\Heranca\obj\Debug\Heranca.csproj.CoreCompileInputs.cache
+C:\Users\diieg\Documents\GitHub\Learning2.0\Backend\C#\Mod 5 - POO\POO - Teoria\Heranca\obj\Debug\Heranca.exe
+C:\Users\diieg\Documents\GitHub\Learning2.0\Backend\C#\Mod 5 - POO\POO - Teoria\Heranca\obj\Debug\Heranca.pdb

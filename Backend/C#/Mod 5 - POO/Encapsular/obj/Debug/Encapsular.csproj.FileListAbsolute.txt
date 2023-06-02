@@ -1,0 +1,8 @@
+C:\Users\diieg\Documents\GitHub\Learning2.0\Backend\C#\Mod 5 - POO\POO - Teoria\Encapsular\bin\Debug\Encapsular.exe.config
+C:\Users\diieg\Documents\GitHub\Learning2.0\Backend\C#\Mod 5 - POO\POO - Teoria\Encapsular\bin\Debug\Encapsular.exe
+C:\Users\diieg\Documents\GitHub\Learning2.0\Backend\C#\Mod 5 - POO\POO - Teoria\Encapsular\bin\Debug\Encapsular.pdb
+C:\Users\diieg\Documents\GitHub\Learning2.0\Backend\C#\Mod 5 - POO\POO - Teoria\Encapsular\obj\Debug\Encapsular.csproj.AssemblyReference.cache
+C:\Users\diieg\Documents\GitHub\Learning2.0\Backend\C#\Mod 5 - POO\POO - Teoria\Encapsular\obj\Debug\Encapsular.csproj.SuggestedBindingRedirects.cache
+C:\Users\diieg\Documents\GitHub\Learning2.0\Backend\C#\Mod 5 - POO\POO - Teoria\Encapsular\obj\Debug\Encapsular.csproj.CoreCompileInputs.cache
+C:\Users\diieg\Documents\GitHub\Learning2.0\Backend\C#\Mod 5 - POO\POO - Teoria\Encapsular\obj\Debug\Encapsular.exe
+C:\Users\diieg\Documents\GitHub\Learning2.0\Backend\C#\Mod 5 - POO\POO - Teoria\Encapsular\obj\Debug\Encapsular.pdb
