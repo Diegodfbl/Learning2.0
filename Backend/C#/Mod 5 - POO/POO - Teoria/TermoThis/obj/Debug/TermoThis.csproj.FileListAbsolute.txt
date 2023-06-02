@@ -1,8 +1,0 @@
-C:\Users\diieg\Documents\GitHub\Learning2.0\Backend\C#\Mod 5 - POO\POO - Teoria\TermoThis\bin\Debug\TermoThis.exe.config
-C:\Users\diieg\Documents\GitHub\Learning2.0\Backend\C#\Mod 5 - POO\POO - Teoria\TermoThis\bin\Debug\TermoThis.exe
-C:\Users\diieg\Documents\GitHub\Learning2.0\Backend\C#\Mod 5 - POO\POO - Teoria\TermoThis\bin\Debug\TermoThis.pdb
-C:\Users\diieg\Documents\GitHub\Learning2.0\Backend\C#\Mod 5 - POO\POO - Teoria\TermoThis\obj\Debug\TermoThis.csproj.AssemblyReference.cache
-C:\Users\diieg\Documents\GitHub\Learning2.0\Backend\C#\Mod 5 - POO\POO - Teoria\TermoThis\obj\Debug\TermoThis.csproj.SuggestedBindingRedirects.cache
-C:\Users\diieg\Documents\GitHub\Learning2.0\Backend\C#\Mod 5 - POO\POO - Teoria\TermoThis\obj\Debug\TermoThis.csproj.CoreCompileInputs.cache
-C:\Users\diieg\Documents\GitHub\Learning2.0\Backend\C#\Mod 5 - POO\POO - Teoria\TermoThis\obj\Debug\TermoThis.exe
-C:\Users\diieg\Documents\GitHub\Learning2.0\Backend\C#\Mod 5 - POO\POO - Teoria\TermoThis\obj\Debug\TermoThis.pdb

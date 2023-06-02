@@ -1,8 +1,0 @@
-C:\Users\diieg\Documents\GitHub\Learning2.0\Backend\C#\Mod 5 - POO\POO - Teoria\TipoDELEGATE\obj\Debug\TipoDELEGATE.csproj.AssemblyReference.cache
-C:\Users\diieg\Documents\GitHub\Learning2.0\Backend\C#\Mod 5 - POO\POO - Teoria\TipoDELEGATE\obj\Debug\TipoDELEGATE.csproj.SuggestedBindingRedirects.cache
-C:\Users\diieg\Documents\GitHub\Learning2.0\Backend\C#\Mod 5 - POO\POO - Teoria\TipoDELEGATE\obj\Debug\TipoDELEGATE.csproj.CoreCompileInputs.cache
-C:\Users\diieg\Documents\GitHub\Learning2.0\Backend\C#\Mod 5 - POO\POO - Teoria\TipoDELEGATE\bin\Debug\TipoDELEGATE.exe.config
-C:\Users\diieg\Documents\GitHub\Learning2.0\Backend\C#\Mod 5 - POO\POO - Teoria\TipoDELEGATE\bin\Debug\TipoDELEGATE.exe
-C:\Users\diieg\Documents\GitHub\Learning2.0\Backend\C#\Mod 5 - POO\POO - Teoria\TipoDELEGATE\bin\Debug\TipoDELEGATE.pdb
-C:\Users\diieg\Documents\GitHub\Learning2.0\Backend\C#\Mod 5 - POO\POO - Teoria\TipoDELEGATE\obj\Debug\TipoDELEGATE.exe
-C:\Users\diieg\Documents\GitHub\Learning2.0\Backend\C#\Mod 5 - POO\POO - Teoria\TipoDELEGATE\obj\Debug\TipoDELEGATE.pdb

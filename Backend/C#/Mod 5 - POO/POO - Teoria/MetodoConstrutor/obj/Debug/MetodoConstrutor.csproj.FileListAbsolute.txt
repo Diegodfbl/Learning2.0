@@ -1,8 +1,0 @@
-C:\Users\diieg\Documents\GitHub\Learning2.0\Backend\C#\Mod 5 - POO\POO - Teoria\MetodoConstrutor\bin\Debug\MetodoConstrutor.exe.config
-C:\Users\diieg\Documents\GitHub\Learning2.0\Backend\C#\Mod 5 - POO\POO - Teoria\MetodoConstrutor\bin\Debug\MetodoConstrutor.exe
-C:\Users\diieg\Documents\GitHub\Learning2.0\Backend\C#\Mod 5 - POO\POO - Teoria\MetodoConstrutor\bin\Debug\MetodoConstrutor.pdb
-C:\Users\diieg\Documents\GitHub\Learning2.0\Backend\C#\Mod 5 - POO\POO - Teoria\MetodoConstrutor\obj\Debug\MetodoConstrutor.csproj.AssemblyReference.cache
-C:\Users\diieg\Documents\GitHub\Learning2.0\Backend\C#\Mod 5 - POO\POO - Teoria\MetodoConstrutor\obj\Debug\MetodoConstrutor.csproj.SuggestedBindingRedirects.cache
-C:\Users\diieg\Documents\GitHub\Learning2.0\Backend\C#\Mod 5 - POO\POO - Teoria\MetodoConstrutor\obj\Debug\MetodoConstrutor.csproj.CoreCompileInputs.cache
-C:\Users\diieg\Documents\GitHub\Learning2.0\Backend\C#\Mod 5 - POO\POO - Teoria\MetodoConstrutor\obj\Debug\MetodoConstrutor.exe
-C:\Users\diieg\Documents\GitHub\Learning2.0\Backend\C#\Mod 5 - POO\POO - Teoria\MetodoConstrutor\obj\Debug\MetodoConstrutor.pdb

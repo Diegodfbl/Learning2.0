@@ -1,8 +1,0 @@
-C:\Users\diieg\Documents\GitHub\Learning2.0\Backend\C#\Mod 5 - POO\POO - Teoria\POO - Teoria\bin\Debug\POO - Teoria.exe.config
-C:\Users\diieg\Documents\GitHub\Learning2.0\Backend\C#\Mod 5 - POO\POO - Teoria\POO - Teoria\bin\Debug\POO - Teoria.exe
-C:\Users\diieg\Documents\GitHub\Learning2.0\Backend\C#\Mod 5 - POO\POO - Teoria\POO - Teoria\bin\Debug\POO - Teoria.pdb
-C:\Users\diieg\Documents\GitHub\Learning2.0\Backend\C#\Mod 5 - POO\POO - Teoria\POO - Teoria\obj\Debug\POO - Teoria.csproj.AssemblyReference.cache
-C:\Users\diieg\Documents\GitHub\Learning2.0\Backend\C#\Mod 5 - POO\POO - Teoria\POO - Teoria\obj\Debug\POO - Teoria.csproj.SuggestedBindingRedirects.cache
-C:\Users\diieg\Documents\GitHub\Learning2.0\Backend\C#\Mod 5 - POO\POO - Teoria\POO - Teoria\obj\Debug\POO - Teoria.csproj.CoreCompileInputs.cache
-C:\Users\diieg\Documents\GitHub\Learning2.0\Backend\C#\Mod 5 - POO\POO - Teoria\POO - Teoria\obj\Debug\POO - Teoria.exe
-C:\Users\diieg\Documents\GitHub\Learning2.0\Backend\C#\Mod 5 - POO\POO - Teoria\POO - Teoria\obj\Debug\POO - Teoria.pdb
